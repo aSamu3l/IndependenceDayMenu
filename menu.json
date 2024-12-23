@@ -1,0 +1,20 @@
+{
+  "appetizer": [
+      "Buffalo Wings",
+      "Stuffed Jalapeños"
+  ],
+  "first course": [
+      "Clam Chowder",
+      "Caesar Salad"
+  ],
+  "main course": [
+      "BBQ Ribs",
+      "Grilled Burgers",
+      "Hot Dogs"
+  ],
+  "dessert": [
+      "Apple Pie",
+      "Cheesecake",
+      "Brownies"
+  ]
+}
